@@ -12,7 +12,7 @@ a {
 body {
   text-align: center;
   background-color: #F26522;
-  background: url(www.fanpop.com/clubs/puppies/images/29016980/title/puppies-photo/left) no-repeat bottom left fixed, url(images/right.png) no-repeat bottom right fixed, -moz-linear-gradient(0, rgba(200,0,0,.5) 50%, transparent 50%), -moz-linear-gradient(rgba(200,0,0,.5) 50%, transparent 50%), #F26522;
+  background: url(http://www.fanpop.com/clubs/puppies/images/29016980/title/puppies-photo/left) no-repeat bottom left fixed, url(images/right.png) no-repeat bottom right fixed, -moz-linear-gradient(0, rgba(200,0,0,.5) 50%, transparent 50%), -moz-linear-gradient(rgba(200,0,0,.5) 50%, transparent 50%), #F26522;
   background: url(images/left.png) no-repeat bottom left fixed, url(images/right.png) no-repeat bottom right fixed, -o-linear-gradient(0, rgba(200,0,0,.5) 50%, transparent 50%), -o-linear-gradient(rgba(200,0,0,.5) 50%, transparent 50%), #F26522;
   background: url(images/left.png) no-repeat bottom left fixed, url(images/right.png) no-repeat bottom right fixed, -webkit-linear-gradient(0, rgba(200,0,0,.5) 50%, transparent 50%), -webkit-linear-gradient(rgba(200,0,0,.5) 50%, transparent 50%), #F26522;
   background: url(images/left.png) no-repeat bottom left fixed, url(images/right.png) no-repeat bottom right fixed, linear-gradient(0, rgba(200,0,0,.5) 50%, transparent 50%), linear-gradient(rgba(200,0,0,.5) 50%, transparent 50%), #F26522;
@@ -101,7 +101,7 @@ body {
 /* These styles create the images on the cards. We're using a path to the images
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
-.ie {background: url(./images/ie.png) no-repeat; background-size: contain;}
+.ie {background: url(http://images4.fanpop.com/image/photos/14700000/So-cute-puppies-14749028-1600-1200.jpg) no-repeat; background-size: contain;}
 .fx {background: url(./images/fx.png) no-repeat; background-size: contain;}
 .cr {background: url(./images/cr.png) no-repeat; background-size: contain;}
 .sf {background: url(./images/sf.png) no-repeat; background-size: contain;}
